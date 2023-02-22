@@ -1,8 +1,8 @@
 ### Role
-ML Research Scientist
+Full stack engineer
 
 ### Salary range
-$150K or higher + equity
+$120K or higher + equity
 
 ### Location
 NYC, Prague or remote
@@ -17,30 +17,30 @@ Are you looking for a new technical challenge? Are you passionate about AI, comp
 
 ## Responsibilities
 
-- Research, design, and implement cutting-edge ML models
-- Collaborate with cross-functional teams to address business needs
-- Stay up-to-date with ML trends and best practices
-- Continuously improve ML model performance and efficiency
-- Mentor and collaborate with other engineers to help grow the team's expertise and knowledge
+- Develop and maintain web/mobile apps and backend services
+- Collaboration with cross-functional teams to implement new features and improve existing ones
+- Optimize experiences for maximum responsiveness and scalability
+- Write clean and efficient code, adhering to coding standards and best practices
+- Debug and troubleshoot issues reported by users
+- Participate in code reviews and provide feedback to other team members
 
 ## Requirements
 
-- BS or higher in Computer Science, Machine Learning, or a related field
-- A strong background in ML and deep learning algorithms
-- Strong problem-solving skills and the ability to develop novel ML solutions
-- Experience with programming languages such as Python, R or C++
-- Experience with data preprocessing, cleaning, and wrangling
-- A solid foundation in statistical analysis and probability theory
-- Familiarity with libs and frameworks such as TensorFlow, PyTorch, or scikit-learn
+- Previous experience as a full stack engineer
+- Advanced knowledge of front-end languages including HTML5, CSS, JavaScript, TypeScript
+- Knowledge of multiple back-end languages e.g. C#, Java, Python
+- Familiarity with database technologies such as MySQL or MongoDB
+- Experience with cloud services like AWS or Google Cloud
+- Understanding of RESTful API design and development
 
 ## Nice-to-haves
 
-- Publications in relevant machine learning conferences or journals
-- Experience with natural language processing (NLP) or computer vision (CV) apps
-- Experience with cloud-based ML services, such as Amazon SageMaker or Google Cloud AI
-- Familiarity with Bayesian inference and probabilistic programming
-- Familiarity with NLP and generative models like LSTMs or LLMs
-- Knowledge of deep reinforcement learning or other advanced ML techniques
+- BS or higher in Computer Science or Computer Engineering
+- Knowledge of programming languages such as Rust, Go, Kotlin, Swift, Elixir
+- Experience with mobile app development
+- Familiarity with containerization technologies like Docker or Kubernetes
+- Knowledge of machine learning and artificial intelligence
+- Understanding of DevOps practices and tools
 
 ## Benefits
 
