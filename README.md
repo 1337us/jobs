@@ -17,4 +17,6 @@ If you're interested in any of our available positions, please review the releva
 
 ## Referral program
 
-We're also offering a referral bonus for anyone who can help us find the right talent for our team. If you refer someone we end up hiring, we'll give you a **$25,000 investment** in your startup. Please reach out to robin@1337.us for more information.
+We're also offering a referral bonus for anyone who can help us find the right talent for our team. If you refer someone we end up hiring, we'll give you a **$25,000 investment** in your startup.
+
+Please reach out to robin@1337.us or DM [@robinraszka](https://twitter.com/robinraszka) for more information.
